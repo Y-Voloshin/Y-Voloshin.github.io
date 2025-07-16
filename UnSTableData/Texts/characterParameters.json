@@ -1,0 +1,24 @@
+{
+  "texts": [
+    {
+      "key": "cheerful",
+      "en": "Cheerful",
+      "ru": "Бодрость"
+    },
+    {
+      "key": "communication",
+      "en": "Communication",
+      "ru": "Общительность"
+    },
+    {
+      "key": "friendliness",
+      "en": "Friendliness",
+      "ru": "Дружелюбие"
+    },
+    {
+      "key": "well-being",
+      "en": "Well-being",
+      "ru": "Самочувствие"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "texts": [
+    {
+      "key": "ch_lie_0",
+      "en": "I'm not a killer! I don't even know how to kill!",
+      "ru": "Я не убийца! Я даже не знаю, как убивать!"
+    },
+    {
+      "key": "ch_lie_1",
+      "en": "I'm innocent! Call my mom, she'll confirm it.",
+      "ru": "Я невиновен! Позвоните моей маме, она подтвердит."
+    },
+    {
+      "key": "ch_lie_2",
+      "en": "I saw a plane flying over us during the crime, and 27 knives fell out of it. Yes, right above the victim.",
+      "ru": "Я видел, как во время преступления над нами пролетал самоелт, и из него выпало 27 ножей. Да, прямо над жервтой."
+    },
+    {
+      "key": "ch_lie_3",
+      "en": "I didn't kill! Others did the killing, I was just passing by.",
+      "ru": "Я не убивал! Это другие убивали, я просто мимо шёл."
+    },
+    {
+      "key": "ch_lie_3",
+      "en": "Where's the blood from? I think the deceased broke into my room before death, smeared my things with blood and ran away.",
+      "ru": "Откуда кровь? Думаю, покойный перед смерью проник в мой номер, измазал мои вещи в крови и сбежал."
+    },
+    {
+      "key": "ch_lie_3",
+      "en": "The deceased got what they deserved. I didn't know them personally. A friend told me so. Can't remember which friend exactly.",
+      "ru": "Покойный получил по заслугам. Я сам его не знал. Мне друг так сказал. Точно не помню, какой именно друг."
+    },
+    {
+      "key": "ch_lie_3",
+      "en": "The deceased got what he deserved. I didn't know him personally. A friend told me so. Can't remember which friend exactly.",
+      "ru": "Покойный получил по заслугам. Я сам его не знал. Мне друг так сказал. Точно не помню, какой именно друг."
+    },
+    {
+      "key": "ch_lie_3",
+      "en": "I don't know the victim. So what if we were seen together all the time? I just love to chat friendly with strangers.",
+      "ru": "Я не знаком с жертвой. Что с того, что нас постоянно видели вместе? Я люблю дружески болтать с незнакомцами."
+    }
+  ]
+}

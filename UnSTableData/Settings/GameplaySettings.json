@@ -1,0 +1,16 @@
+﻿{
+  "charactersCount": 8,
+  "actsCount": 3,
+  "ingredientsInCocktailCountMax": 5,
+  "cocktailsPerCharacter": 1,
+  "aggressiveDamage": 20,
+  "noCocktailEffectValue": -10,
+  "initialParameterValueMin": 40,
+  "initialParameterValueMax": 60,
+  "defaultRoleID": "default",
+  "murdererRoleID": "murderer",
+  "truthCategoryID": "characterCommonTrueLines",
+  "lieCategoryID": "characterCommonLieLines",
+  "gameResultFilterID": "default",
+  "ingredientsStockCount": 7
+}

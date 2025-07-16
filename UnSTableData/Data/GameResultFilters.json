@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "id": "test",
+      "conditions": [
+        {
+          "description json only" : "We got many meaningful lines - truth and lie",
+          "requiredLines": [
+            {
+              "key": "characterCommonTrueLines",
+              "isCategory": true
+            },
+            {
+              "key": "characterCommonLieLines",
+              "isCategory": true
+            }
+          ],
+          "requiredLinesCount": 2
+        },
+        {
+          "description json only" : "We got two lies - and only murderer lies",
+          "requiredLines": [
+            {
+              "key": "characterCommonLieLines",
+              "isCategory": true
+            }
+          ],
+          "requiredLinesCount": 1
+        }
+      ]
+    },
+    {
+      "id": "default",
+      "conditions": [
+        {
+          "description json only" : "We got many meaningful lines - truth and lie",
+          "requiredLines": [
+            {
+              "key": "characterCommonTrueLines",
+              "isCategory": true
+            },
+            {
+              "key": "characterCommonLieLines",
+              "isCategory": true
+            }
+          ],
+          "requiredLinesCount": 16
+        },
+        {
+          "description json only" : "We got two lies - and only murderer lies",
+          "requiredLines": [
+            {
+              "key": "characterCommonLieLines",
+              "isCategory": true
+            }
+          ],
+          "requiredLinesCount": 3
+        }
+      ]
+    }
+  ]
+}

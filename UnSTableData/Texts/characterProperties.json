@@ -1,0 +1,44 @@
+{
+  "texts": [
+    {
+      "key": "male",
+      "en": "Male",
+      "ru": "Мужчина"
+    },
+    {
+      "key": "female",
+      "en": "Female",
+      "ru": "Женщина"
+    },
+    {
+      "key": "genderfluid",
+      "en": "Genderfluid",
+      "ru": "Гендерфлюид"
+    },
+    {
+      "key": "biological",
+      "en": "Life form",
+      "ru": "Форма жизни"
+    },
+    {
+      "key": "mech",
+      "en": "Mechanism",
+      "ru": "Механизм"
+    },
+    {
+      "key": "supernatural",
+      "en": "Supernatural",
+      "ru": "Сверхъестественное"
+    },
+    {
+      "key": "local",
+      "en": "From this planet",
+      "ru": "С этой планеты"
+    },
+    {
+      "key": "alien",
+      "en": "From outer space",
+      "ru": "Из открытого космоса"
+    }
+  ]
+}

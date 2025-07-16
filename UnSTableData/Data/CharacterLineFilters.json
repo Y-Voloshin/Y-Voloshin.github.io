@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "id": "example",
+      "parameterLimits": [
+        {
+          "parameter": "happiness",
+          "alwaysFalseValue": 20,
+          "alwaysTrueValue": 80
+        }
+      ],
+      "conditions": [
+        {
+          "conditions": [
+            {
+              "parameter": "drunk",
+              "requiredValue": true
+            }
+          ],
+          "lineKey": "drunk_talk",
+          "lineIsCategory": true
+        }
+      ],
+      "defaultLineKey": "default_talk",
+      "defaultLineIsCategory": false,
+      "useDefaultLineIfFalse": true
+    },
+    {
+      "id": "default",
+      "defaultLineKey": "characterNeutralLines",
+      "defaultLineIsCategory": true,
+      "useDefaultLineIfFalse": false,
+      "conditions": [
+        {
+          "description json only": "If don't want to talk, says neutral",
+          "conditions": [
+            { "parameter": "communication", "requiredValue": false }
+          ],
+          "lineKey": "characterNeutralLines",
+          "lineIsCategory": true
+        },
+        {
+          "description json only": "If talkative and neutral says neutral",
+          "conditions": [
+            { "parameter": "communication", "requiredValue": true },
+            { "parameter": "friendliness", "requiredValue": false }
+          ],
+          "lineKey": "characterNeutralLines",
+          "lineIsCategory": true
+        },
+        {
+          "description json only": "If talkative and involved, and innocent, says true",
+          "conditions": [
+            { "parameter": "communication", "requiredValue": true },
+            { "parameter": "friendliness", "requiredValue": true }
+          ],
+          "lineKey": "characterCommonTrueLines",
+          "lineIsCategory": true
+        }
+      ],
+      "parameterLimits": [
+        { "parameter": "communication", "alwaysFalseValue": 20, "alwaysTrueValue": 80 },
+        { "parameter": "friendliness", "alwaysFalseValue": 20, "alwaysTrueValue": 80 }
+      ]
+    },
+    {
+      "id": "murderer",
+      "defaultLineKey": "characterNeutralLines",
+      "defaultLineIsCategory": true,
+      "useDefaultLineIfFalse": false,
+      "conditions": [
+        {
+          "description json only": "If don't want to talk, says neutral",
+          "conditions": [
+            { "parameter": "communication", "requiredValue": false }
+          ],
+          "lineKey": "characterNeutralLines",
+          "lineIsCategory": true
+        },
+        {
+          "description json only": "If talkative and neutral says neutral",
+          "conditions": [
+            { "parameter": "communication", "requiredValue": true },
+            { "parameter": "friendliness", "requiredValue": false }
+          ],
+          "lineKey": "characterNeutralLines",
+          "lineIsCategory": true
+        },
+        {
+          "description json only": "If talkative and involved, and guilty, says lies",
+          "conditions": [
+            { "parameter": "communication", "requiredValue": true },
+            { "parameter": "friendliness", "requiredValue": true }
+          ],
+          "lineKey": "characterCommonLieLines",
+          "lineIsCategory": true
+        }
+      ],
+      "parameterLimits": [
+        { "parameter": "communication", "alwaysFalseValue": 20, "alwaysTrueValue": 80 },
+        { "parameter": "friendliness", "alwaysFalseValue": 20, "alwaysTrueValue": 80 }
+      ]
+    }
+  ]
+}

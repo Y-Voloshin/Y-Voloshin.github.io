@@ -1,0 +1,24 @@
+{
+  "texts": [
+    {
+      "key": "ch_lie_0",
+      "en": "Oh, floor! Looks comfortable.",
+      "ru": "О, пол! выглядит удобно."
+    },
+    {
+      "key": "ch_lie_1",
+      "en": "Wake me up when the fight starts.",
+      "ru": "Разбудите, когда начнется мордобой."
+    },
+    {
+      "key": "ch_lie_2",
+      "en": "Am I in a helicopter?",
+      "ru": "Я что, в вертолёте?"
+    },
+    {
+      "key": "ch_lie_3",
+      "en": "I'm not sleeping. I just need to lie down and blink a bit.",
+      "ru": "Я не сплю. Мне просто нужно лечь и немного моргнуть."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "texts": [
+    {
+      "key": "ui_guest",
+      "en": "Guest",
+      "ru": "Гость"
+    },
+    {
+      "key": "ui_serve_drink",
+      "en": "Done! Serve drink",
+      "ru": "Готово! подать коктейль"
+    },
+    {
+      "key": "ui_mix_again",
+      "en": "Mix again",
+      "ru": "Смешать заново"
+    },
+    {
+      "key": "ui_cancel_cocktail",
+      "en": "Don't serve cocktail to the guest",
+      "ru": "Не наливать гостю"
+    },
+    {
+      "key": "ui_ready_cocktails_menu",
+      "en": "Ready cocktails menu",
+      "ru": "Меню готовых коктейлей"
+    },
+    {
+      "key": "ui_ingredients",
+      "en": "Ingredients",
+      "ru": "Ингрединеты"
+    },
+    {
+      "key": "ui_glasses",
+      "en": "Glasses",
+      "ru": "Бокалы"
+    },
+    {
+      "key": "ui_useGlass",
+      "en": "Use the glass",
+      "ru": "Выбрать этот бокал"
+    },
+    {
+      "key": "ui_add_ingredient",
+      "en": "Add ingredient",
+      "ru": "Добавить ингредиент"
+    },
+    {
+      "key": "ui_glass_effect_format",
+      "en": "+ {0}% to effect for {1}",
+      "ru": "+ {0}% к эффекту для {1}"
+    },
+    {
+      "key": "ui_for",
+      "en": " for ",
+      "ru": " для "
+    },
+    {
+      "key": "ui_to",
+      "en": " to ",
+      "ru": " к "
+    },
+    {
+      "key": "ui_no_cocktail_selected",
+      "en": "No cocktail selected",
+      "ru": "Коктейль не выбран"
+    },
+    {
+      "key": "ui_ingredient_in_cocktail_count_format",
+      "en": "Ingredients: {0} (maximum {1})",
+      "ru": "Ингредиентов: {0} (максимум {1})"
+    },
+    {
+      "key": "ui_guest",
+      "en": "Guest",
+      "ru": "Гость"
+    },
+    {
+      "key": "ui_game_description",
+      "en": "Here is a murder happened in a hotel. All the suspects gathered in the hotel bar.\nYou are the bartender.\nMake them speak with your special cocktails and help the detective to find the truth.\nBut be careful. Because all the cocktails have their own effects. And all the effects have consequences.\nAnd all the suspects are unstable.",
+      "ru": "В этом отеле произошло убийство. Все подозреваемые собрались в баре отеля.\nВы - бармен.\nРазвяжите им язык, наливая ваши особые коктейли, и помогите детективу докопаться до истины.\nНо будьте осторожны. Ведь у каждого коктейля - свои эффекты. А у каждого эффекта - свои последствия.\nА все подозреваемые - нестабильны.\n"
+    },
+    {
+      "key": "ui_press_key",
+      "en": "Press any key to continue.",
+      "ru": "Нажмите любую клавишу, чтобы продолжить."
+    },
+    {
+      "key": "ui_exit",
+      "en": "Exit game",
+      "ru": "Выход"
+    },
+    {
+      "key": "ui_continue",
+      "en": "Continue game",
+      "ru": "Продолжить играть"
+    },
+    {
+      "key": "ui_to_main_menu",
+      "en": "Go to main menu",
+      "ru": "В главное меню"
+    },
+    {
+      "key": "ui_restart",
+      "en": "Restart game",
+      "ru": "Начать заново"
+    },
+    {
+      "key": "ui_win",
+      "en": "You solved the case.\nThe murderer is {0}.",
+      "ru": "Вы раскрыли дело.\nУбийца - {0}."
+    },
+    {
+      "key": "ui_lose",
+      "en": "You failed the case.\nThe murderer remained undiscovered.",
+      "ru": "Вы не смогли раскрыть дело.\nУбийца остался нераскрытым."
+    },
+    {
+      "key": "ui_truth_count",
+      "en": "You found out the truth {0} times.",
+      "ru": "Вы узнали правду {0} раз."
+    },
+    {
+      "key": "ui_lie_count",
+      "en": "You caught the criminal in a lie {0} times.",
+      "ru": "Вы поймали преступника на лжи {0} раз."
+    },
+    {
+      "key": "ui_alive_count",
+      "en": "{0} guests stayed alive.",
+      "ru": "{0} гостей выжило."
+    },
+    {
+      "key": "ui_conscious_count",
+      "en": "{0} guests remained conscious.",
+      "ru": "{0} гостей осталось в сознании."
+    },
+    {
+      "key": "ui_guest_away_description",
+      "en": "The guest is OK, but what's about is mood? Only friendly and talkative guest would give you the useful information.",
+      "ru": "Гость в порядке, но что насчет его настроения? Только дружелюбный и разговорчивый гость даст вам полезную информацию."
+    },
+    {
+      "key": "ui_guest_aggressive_description",
+      "en": "The guest's friendliness has dropped too low. The guest became aggressive and attacked another visitor. Due to the attack, the victim's well-being decreases. If it drops too low, the victim will die and will no longer be able to testify.",
+      "ru": "Дружелюбие гостя опустилось слишком низко. Гость стал агрессивным и напал на другого посетителя. Из-за нападения самочувствие жертвы уменьшается. Если оно опустится слишком низко, жертва умрёт и больше не сможет дать показания."
+    },
+    {
+      "key": "ui_guest_death_description",
+      "en": "The guest's well-being has dropped too low, so he died. Now he is unable to testify.",
+      "ru": "Самочувствие гостя опустилось слишком низко, и он умер. Теперь он не сможет дать показания."
+    },
+    {
+      "key": "ui_guest_sleep_description",
+      "en": "The guest's cheerful has dropped too low, so he fell asleep. Now he is unable to testify.",
+      "ru": "Бодрость гостя опустилась слишком низко, и он уснул. Теперь он не сможет дать показания."
+    },
+    {
+      "key": "ui_all_items",
+      "en": "All",
+      "ru": "Все"
+    },
+    {
+      "key": "ui_not_enough_ingredients",
+      "en": "Not enough ingredients",
+      "ru": "Закончились ингредиенты"
+    },
+    {
+      "key": "ui_filter",
+      "en": "Filter:",
+      "ru": "Фильтр:"
+    },
+    {
+      "key": "ui_no_cocktail_hint",
+      "en": "If you don't give a cocktail to the guest, all his parameters will fall down by {0}.",
+      "ru": "Если не дать гостю коктейль, все его параметры упадут на {0}."
+    }
+  ]
+}

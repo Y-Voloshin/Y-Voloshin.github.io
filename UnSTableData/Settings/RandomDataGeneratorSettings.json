@@ -1,0 +1,11 @@
+﻿{
+  "cocktailsCount":20,
+  "ingredientEffectsSumForPropertyMin": -10,
+  "ingredientEffectsSumForPropertyMax": 10,
+  "ingredientEffectForPropertyMin": -10,
+  "ingredientEffectForPropertyMax": 10,
+  "ingredientsInCocktailCountMin": 3,
+  "ingredientsInCocktailCountMax": 5,
+  "oneIngredientInCocktailMax" : 2,
+  "ingredientsStockCount": 7
+}

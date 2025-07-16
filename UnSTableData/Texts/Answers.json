@@ -1,0 +1,254 @@
+{
+  "texts": [
+    {
+      "key": "q0_a0",
+      "en": "[Q0] My husband is a powerful man!",
+      "ru": "[Q0] Мой муж влиятельный человек!"
+    },
+    {
+      "key": "q0_a1",
+      "en": "[Q0] Аh, mon cheri!",
+      "ru": "[Q0] Аh, mon cheri!"
+    },
+    {
+      "key": "q0_a2",
+      "en": "[Q0] Аh, mon cheri!",
+      "ru": "[Q0] Ах, mon cheri!"
+    },
+    {
+      "key": "q0_a3",
+      "en": "[Q0] Liquor",
+      "ru": "[Q0] Ликёр"
+    },
+    {
+      "key": "q0_a4",
+      "en": "[Q0] Gasoline",
+      "ru": "[Q0] Бензин"
+    },
+    {
+      "key": "q1_a0",
+      "en": "[Q1] Are you serious?",
+      "ru": "[Q1] Вы это серьёзно?"
+    },
+    {
+      "key": "q1_a1",
+      "en": "[Q1] He going a road marking marking out of the clouds",
+      "ru": "[Q1] Он ушёл по разметке из туч"
+    },
+    {
+      "key": "q1_a2",
+      "en": "[Q1] To understand what's in my head, you'll have to go over the edge",
+      "ru": "[Q1] Чтобы понять, что у меня в голове вам придётся уйти за край"
+    },
+    {
+      "key": "q1_a3",
+      "en": "[Q1] Liquor",
+      "ru": "[Q1] Ликёр"
+    },
+    {
+      "key": "q1_a4",
+      "en": "[Q1] Gasoline",
+      "ru": "[Q1] Бензин"
+    },
+    {
+      "key": "q2_a0",
+      "en": "[Q2] Our job is your fun!",
+      "ru": "[Q2] Наша работа ваше веселье!"
+    },
+    {
+      "key": "q2_a1",
+      "en": "[Q2] Controversy will swirl around it, I wonder what will grow out of it?",
+      "ru": "[Q2] Споры вокруг него будут кружить, интересно, что из них вырастет?"
+    },
+    {
+      "key": "q2_a2",
+      "en": "[Q2] Great Mushroom, what do you mean?!",
+      "ru": "[Q2] Великая Грибница, что вы хотите этим сказать?!"
+    },
+    {
+      "key": "q2_a3",
+      "en": "[Q2] Liquor",
+      "ru": "[Q2] Ликёр"
+    },
+    {
+      "key": "q2_a4",
+      "en": "[Q2] Gasoline",
+      "ru": "[Q2] Бензин"
+    },
+    {
+      "key": "q3_a0",
+      "en": "[Q3] Financial investment will save humanity. Some of it",
+      "ru": "[Q3] Финансовые инвестиции спасут человечество. Некоторую его часть"
+    },
+    {
+      "key": "q3_a1",
+      "en": "[Q3] There was too little blood in my steak",
+      "ru": "[Q3] В моём стейке было слишком мало крови"
+    },
+    {
+      "key": "q3_a2",
+      "en": "[Q3] Of course, I'm a financier!",
+      "ru": "[Q3] Конечно, я же финансист"
+    },
+    {
+      "key": "q3_a3",
+      "en": "[Q3] Liquor",
+      "ru": "[Q3] Ликёр"
+    },
+    {
+      "key": "q3_a4",
+      "en": "[Q3] Gasoline",
+      "ru": "[Q3] Бензин"
+    },
+    {
+      "key": "q4_a0",
+      "en": "[Q4] A talented moose is talented at everything!",
+      "ru": "[Q4] Талантливый лось талантлив во всём!"
+    },
+    {
+      "key": "q4_a1",
+      "en": "[Q4] Do you know how unicorn sweat is extracted?",
+      "ru": "[Q4] А вы знаете, как добывают пот единорога?"
+    },
+    {
+      "key": "q4_a2",
+      "en": "[Q4] Oh no, how could you think that of me!",
+      "ru": "[Q4] О нет, как вы могли подумать так обо мне!"
+    },
+    {
+      "key": "q4_a3",
+      "en": "[Q4] Liquor",
+      "ru": "[Q4] Ликёр"
+    },
+    {
+      "key": "q4_a4",
+      "en": "[Q4] Gasoline",
+      "ru": "[Q4] Бензин"
+    },
+    {
+      "key": "q0_a0",
+      "en": "[Q4] Are you trying to insult me?",
+      "ru": "[Q4] Вы хотите меня оскорбить?"
+    },
+    {
+      "key": "q0_a0",
+      "en": "[Q4] You are too curious.",
+      "ru": "[Q4] Вы слишком любопытны"
+    },
+    {
+      "key": "q0_a0",
+      "en": "[Q4] Maybe you are a murderer?",
+      "ru": "[Q4] А может это вы убийца?"
+    },
+    {
+      "key": "q0_a0",
+      "en": "[Q4] Liquor",
+      "ru": "Ликёр"
+    },
+    {
+      "key": "q0_a0",
+      "en": "Gasoline",
+      "ru": "Бензин"
+    },
+    {
+      "key": "q0_a0",
+      "en": "Most of the time I'm looking for my mate",
+      "ru": "Большую часть времени я ищу свою пару"
+    },
+    {
+      "key": "q0_a0",
+      "en": "I'm glad the victim isn't my date.",
+      "ru": "Я рад, что жертва не моя пара"
+    },
+    {
+      "key": "q0_a0",
+      "en": "Do you want to know the mystery of the washing machine?",
+      "ru": "Хотите расскажу Тайну стиральной машины?"
+    },
+    {
+      "key": "q0_a0",
+      "en": "Liquor",
+      "ru": "Ликёр"
+    },
+    {
+      "key": "q0_a0",
+      "en": "Gasoline",
+      "ru": "Бензин"
+    },
+    {
+      "key": "name7_q0",
+      "en": "I flowing into the mysteries of existence",
+      "ru": "Протекаю в тайны бытия"
+    },
+    {
+      "key": "name7_q1",
+      "en": "Disgusting, like a reflection in a mirror.",
+      "ru": "Отвратительно, как отражение в зеркале."
+    },
+    {
+      "key": "name7_q2",
+      "en": "How is that possible, I'm translucent.",
+      "ru": "Как это возможно, я же полупрозрачный"
+    },
+    {
+      "key": "name7_q3",
+      "en": "Liquor",
+      "ru": "Ликёр"
+    },
+    {
+      "key": "name7_q4",
+      "en": "Gasoline",
+      "ru": "Бензин"
+    },
+    {
+      "key": "name8_q0",
+      "en": "I want to pour out everything I've accumulated",
+      "ru": "Мне хочется излить всё, что накопилось"
+    },
+    {
+      "key": "name8_q1",
+      "en": "I want to pour out everything I've accumulated ",
+      "ru": "Такая жуть, боюсь сегодня у меня будет град"
+    },
+    {
+      "key": "name8_q2",
+      "en": "I once had an affair with a Tornado...",
+      "ru": "Однажды я крутила роман со смерчем..."
+    },
+    {
+      "key": "name8_q3",
+      "en": "Liquor",
+      "ru": "Ликёр"
+    },
+    {
+      "key": "name8_q4",
+      "en": "Gasoline",
+      "ru": "Бензин"
+    },
+    {
+      "key": "name9_q0",
+      "en": "Champagne",
+      "ru": "Шампанское"
+    },
+    {
+      "key": "name9_q1",
+      "en": "Vodka",
+      "ru": "Водка"
+    },
+    {
+      "key": "name9_q2",
+      "en": "Beawer juice",
+      "ru": "Бобриная струя"
+    },
+    {
+      "key": "name9_q3",
+      "en": "Liquor",
+      "ru": "Ликёр"
+    },
+    {
+      "key": "name9_q4",
+      "en": "Gasoline",
+      "ru": "Бензин"
+    }
+  ]
+}

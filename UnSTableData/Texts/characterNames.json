@@ -1,0 +1,64 @@
+{
+  "texts": [
+    {
+      "key": "name_detective",
+      "en": "Detective Borodoss",
+      "ru": "Детектив Бородосс"
+    },
+    {
+      "key": "name0",
+      "en": "Jarman",
+      "ru": "Джарман"
+    },
+    {
+      "key": "name1",
+      "en": "Moormur",
+      "ru": "Мурмыр"
+    },
+    {
+      "key": "name2",
+      "en": "Shersuffa",
+      "ru": "Шершуффа"
+    },
+    {
+      "key": "name3",
+      "en": "Olossen",
+      "ru": "Олоссен"
+    },
+    {
+      "key": "name4",
+      "en": "Soorma",
+      "ru": "Сурьма"
+    },
+    {
+      "key": "name5",
+      "en": "Wazap",
+      "ru": "Вазап"
+    },
+    {
+      "key": "name6",
+      "en": "Jay-Jay",
+      "ru": "Джей-Джей"
+    },
+    {
+      "key": "name7",
+      "en": "Dexamut",
+      "ru": "Дексамут"
+    },
+    {
+      "key": "name8",
+      "en": "Kurt",
+      "ru": "Курт"
+    },
+    {
+      "key": "name9",
+      "en": "",
+      "ru": "Имя 9"
+    },
+    {
+      "key": "name10",
+      "en": "Name 10",
+      "ru": "Имя 10"
+    }
+  ]
+}

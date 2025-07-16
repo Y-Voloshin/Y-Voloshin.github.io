@@ -1,0 +1,24 @@
+{
+    "texts": [
+        {
+            "key": "det_start",
+            "en": "We have a body here. And I know, the murderer is among you. Nodoby leaves the bar until I find out the truth.",
+            "ru": "У нас тело. И поверьте моему чутью, убийца среди вас. Никто не покинет бар, пока я тут всё не разнюхаю."
+        },
+        {
+            "key": "det_1",
+            "en": "What an interesting company we have. Tell me, how did you end up here?",
+            "ru": "Любопытная подобралась компания. Расскажите мне, как вы здесь оказались?"
+        },
+        {
+            "key": "det_2",
+            "en": "Let me ask you a question. Did you know the victim?",
+            "ru": "Позвольте задать вам всем вопрос. Вы знали жертву?"
+        },
+        {
+            "key": "det_3",
+            "en": "It's impossible to catch up with your own tail. But the murderer is not a tail. So where was each of you at the time of the crime?",
+            "ru": "Невозможно угнаться за собственным хвостом. Но убийца - не хвост. Так где же каждый из вас был в момент преступления?"
+        }
+    ]
+}

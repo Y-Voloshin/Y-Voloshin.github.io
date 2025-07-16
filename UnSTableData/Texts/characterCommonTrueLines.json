@@ -1,0 +1,80 @@
+{
+  "DESCRIPTION JSON ONLY" : "True phrases that give no information",
+  "texts": [
+    {
+      "key": "ch_true_0",
+      "en": "I saw the deceased shortly before the murder. He was with one of those present.",
+      "ru": "Я видел покойного незадолго до убийства. Он был с одним из присутствующих."
+    },
+    {
+      "key": "ch_true_1",
+      "en": "At the time of the crime, I was in my room. No, not alone. We were engaged in confidential matters.",
+      "ru": "В момент преступления я был у себя в номере. Нет, не один. Мы занимались конфиденциальными делами."
+    },
+    {
+      "key": "ch_true_2",
+      "en": "I saw a black cat cross the deceased's path. I think after 27 stab wounds, he'll start taking it seriously.",
+      "ru": "Я видел, как покойному перебежала дорогу черная кошка. Думаю, после 27 ножевых ранений он начнет относиться к этому серьёзно."
+    },
+    {
+      "key": "ch_true_3",
+      "en": "I ate something bad, so I was very busy at the time of the crime. Here's the key to my room, go take a sniff.",
+      "ru": "Я съел что-то не то, поэтому был очень занят в момент преступления. Вот ключ от моего номера, сходите понюхайте."
+    },
+    {
+      "key": "ch_true_4",
+      "en": "27 stab wounds? Believe me, it wasn't me. That takes too long, and I have a very tight schedule!",
+      "ru": "27 ножевых? Поверьте, это не я. Ведь это очень долго, а у меня очень плотьный график!"
+    },
+    {
+      "key": "ch_true_5",
+      "en": "Knives are so last century. Usually, when I meet a killer, I recommend him an excellent assault rifle.",
+      "ru": "Ножи это прошлый век. Обычно, когда я встречаю убийцу, то рекомендую ему отличную штурмовую винтовку."
+    },
+    {
+      "key": "ch_true_6",
+      "en": "Me? With a knife? Believe me, I'm not that boring. A book - now that's cool. Like in John Wick 3.",
+      "ru": "Я? Ножом? Поверьте, я не такая скучная личность. Книга - вот что круто. Как в Джоне Уике 3."
+    },
+    {
+      "key": "ch_true_7",
+      "en": "Do I have an alibi? Subscribe to my OnlyFans, check out today's posts.",
+      "ru": "Есть ли у меня алиби? Подпишитесь на мой OnlyFans, посмотрите сегодняшние посты."
+    },
+    {
+      "key": "ch_true_8",
+      "en": "Trust me, I'm not the killer. I fight for oppressed rights on the internet, I don't have time for your so-called life.",
+      "ru": "Поверьте, я не убийца. Я борюсь за права угнетенных в интернете, у меня нет времени на вашу так называемую жизнь."
+    },
+    {
+      "key": "ch_true_9",
+      "en": "Knife starts with 'K', so it definitely wasn't me. I'm an alphabetical killer. I'm stuck on 'D'. Killing with a dildo isn't as easy as it seemed.",
+      "ru": "Нож - это на 'Н', так что это точно не я. Я - алфавитный убийца. Я застрал на 'Д'. Убить при помощи дилдо не так просто, как казалось."
+    },
+    {
+      "key": "ch_true_10",
+      "en": "I am innocent. I never lie. You know why? ChatGPT makes all the creative things for me, so I don't need imagination anymore.",
+      "ru": "Я невиновен. Я никогда не вру. Знаете, почему? ChatGPT выполняет за меня всю творческую работу, поэтому мне больше не нужно воображение."
+    },
+    {
+      "key": "ch_true_11",
+      "en": "The deceased and I got along well. He let me bite his nails. It's hard to find an understanding friend these days.",
+      "ru": "Мы ладили с покойным. Он позволял мне грызть его ногти. В наше время непросто найти понимающего друга."
+    },
+    {
+      "key": "ch_true_12",
+      "en": "I had big plans for the deceased. And now all his organs are cut up with a knife. Who's going to buy them now?",
+      "ru": "У меня были большие планы на покойного. А теперь всего его органы изрезаны ножом. Кто их теперь купит?"
+    },
+    {
+      "key": "ch_true_13",
+      "en": "I don't kill anyone. I don't do anything at all. I'm too lazy.",
+      "ru": "Я никого не убиваю. Я вообще ничего не делаю. Мне лень."
+    },
+    {
+      "key": "ch_true_14",
+      "en": "I am not into murders. My passion is caterpillars. Did you know that Creatonotos gangis caterpillar releases scent organs from its abdomen, emitting pheromones? It looks straight out of sci-fi!",
+      "ru": "Я не интересуюсь убийствами. моя страсть - гусеницы. Вы знали, что Гусеница древесной тигровой моли (Creatonotos gangis) выделяет из брюшка «щупальца», источающие феромоны? Это зрелище выглядит как научная фантастика!"
+    }
+  ]
+}

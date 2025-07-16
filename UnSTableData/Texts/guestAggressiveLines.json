@@ -1,0 +1,24 @@
+{
+  "texts": [
+    {
+      "key": "guest_aggr_0",
+      "en": "Who called my mom a rutabaga?",
+      "ru": "Кто тут назвал мою маму брюквой?"
+    },
+    {
+      "key": "guest_aggr_1",
+      "en": "Nickelback is a great band, and you're all just idiots!",
+      "ru": "Nickelback классная группа, а вы все просто придурки!"
+    },
+    {
+      "key": "guest_aggr_2",
+      "en": "Why are you blinking? Got a problem?",
+      "ru": "Чего ты тут моргаешь? Проблемы?"
+    },
+    {
+      "key": "guest_aggr_3",
+      "en": "ARRRRRGHHHHHH!!!",
+      "ru": "АРРРРРРГХХХХХ!!!"
+    }
+  ]
+}

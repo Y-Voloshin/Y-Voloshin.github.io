@@ -1,0 +1,84 @@
+{
+  "texts": [
+    {
+      "key": "ing0",
+      "en": "Champagne",
+      "ru": "Шампанское"
+    },
+    {
+      "key": "ing1",
+      "en": "Vodka",
+      "ru": "Водка"
+    },
+    {
+      "key": "ing2",
+      "en": "Beawer juice",
+      "ru": "Бобриная струя"
+    },
+    {
+      "key": "ing3",
+      "en": "Liquor",
+      "ru": "Ликёр"
+    },
+    {
+      "key": "ing4",
+      "en": "Gasoline",
+      "ru": "Бензин"
+    },
+    {
+      "key": "ing5",
+      "en": "Unicorn sweat",
+      "ru": "Пот единорога"
+    },
+    {
+      "key": "ing6",
+      "en": "Beer",
+      "ru": "Пиво"
+    },
+    {
+      "key": "ing7",
+      "en": "Lemon",
+      "ru": "Лимон"
+    },
+    {
+      "key": "ing8",
+      "en": "Whiskey",
+      "ru": "Виски"
+    },
+    {
+      "key": "ing9",
+      "en": "Lemonade",
+      "ru": "Лимонад"
+    },
+    {
+      "key": "ing10",
+      "en": "Soda",
+      "ru": "Содовая"
+    },
+    {
+      "key": "ing11",
+      "en": "Coffee",
+      "ru": "Кофе"
+    },
+    {
+      "key": "ing12",
+      "en": "Cream",
+      "ru": "Сливки"
+    },
+    {
+      "key": "ing13",
+      "en": "Ice",
+      "ru": "Лёд"
+    },
+    {
+      "key": "ing14",
+      "en": "Cola",
+      "ru": "Кола"
+    },
+    {
+      "key": "ing14",
+      "en": "Virgin tears",
+      "ru": "Слезы девственницы"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "texts": [
+    {
+      "key": "ch_n_0",
+      "en": "You have no right!",
+      "ru": "Вы не имеете права!"
+    },
+    {
+      "key": "ch_n_1",
+      "en": "I don't feel like talking",
+      "ru": "Мне не хочется разговаривать."
+    },
+    {
+      "key": "ch_n_2",
+      "en": "Fi, what disgusting!",
+      "ru": "Фи, какая гадость!"
+    },
+    {
+      "key": "ch_n_3",
+      "en": "Something is stuffy here",
+      "ru": "Что-то тут душновато."
+    },
+    {
+      "key": "ch_n_4",
+      "en": "I have nothing to say.",
+      "ru": "Мне нечего сказать."
+    },
+    {
+      "key": "ch_n_5",
+      "en": "I don't think it's a good idea to spoil our day with your stupid investigations.",
+      "ru": "Такой хороший день, а тут вы со своими дурацкими расследованиями. Не думаю, что это уместно."
+    },
+    {
+      "key": "ch_n_6",
+      "en": "Crimes are so tiresome!",
+      "ru": "Преступления - это так утомительно!"
+    },
+    {
+      "key": "ch_n_7",
+      "en": "I need a drink.",
+      "ru": "Мне бы выпить."
+    },
+    {
+      "key": "ch_n_8",
+      "en": "Good thing they didn't kill me.",
+      "ru": "Хорошо, что убили не меня."
+    },
+    {
+      "key": "ch_n_9",
+      "en": "Sorry for the poor fellow",
+      "ru": "Жалко, конечно, этого добряка."
+    },
+    {
+      "key": "ch_n_10",
+      "en": "Lucky for the deceased. Today is an excellent day to die.",
+      "ru": "Повезло покойнику. Сегодня отличный день для смерти."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "texts": [
+    {
+      "key": "ui_trw_caption",
+      "en": "Current investigation state",
+      "ru": "Текущие результаты расследования"
+    },
+    {
+      "key": "ui_trw_success",
+      "en": "The detective have found out new information.",
+      "ru": "Детектив выяснил новую информацию."
+    },
+    {
+      "key": "ui_trw_fail",
+      "en": "Detective haven't found out anything useful.",
+      "ru": "Детектив не выяснил ничего полезного."
+    },
+    {
+      "key": "ui_trw_truth_characters",
+      "en": "Told the truth: {0}.",
+      "ru": "Сказали правду: {0}."
+    },
+    {
+      "key": "ui_trw_lie_characters",
+      "en": "Told lies: {0}.",
+      "ru": "Солгали: {0}."
+    },
+    {
+      "key": "ui_trw_progress",
+      "en": "The case completion percent: {0}%.",
+      "ru": "Процент раскрытия дела: {0}%."
+    },
+    {
+      "key": "ui_trw_detective_left",
+      "en": "Questions from the Detective left: {0}",
+      "ru": "Вопросов от Детектива осталось: {0}."
+    },
+    {
+      "key": "ui_trw_hint",
+      "en": "To make a guest talk, keep one in a good mood: {0}.\nAlso keep {1}.",
+      "ru": "Чтобы гость заговорил, держите его в хорошем настроении: {0}.\nТакже держите {1}."
+    },
+    {
+      "key": "ui_trw_above",
+      "en": "above",
+      "ru": "выше"
+    },
+    {
+      "key": "ui_trw_below",
+      "en": "below",
+      "ru": "ниже"
+    }
+  ]
+}

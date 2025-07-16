@@ -1,0 +1,10 @@
+﻿Default - filter for all characters who have no specific filter.
+    If can't talk, don't talk
+    If don't want to talk, says neutral
+    If talkative and neutral says neutral
+    If talkative and involved, and innocent, says true
+    If talkative and involved, and guilty, says lies
+    
+    V1 is firts version, it's not used now, but we always can bring it back;
+    
+    

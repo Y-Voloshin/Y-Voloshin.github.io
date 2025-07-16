@@ -1,0 +1,24 @@
+{
+  "texts": [
+    {
+      "key": "guest_death_0",
+      "en": "I'm not feeling well...",
+      "ru": "Что-то мне нехорошо..."
+    },
+    {
+      "key": "guest_death_1",
+      "en": "Ouch, my head!",
+      "ru": "Ай, моя голова!"
+    },
+    {
+      "key": "guest_death_2",
+      "en": "I give this bartender three stars.",
+      "ru": "Ставлю этому бармену три звезды."
+    },
+    {
+      "key": "guest_death_3",
+      "en": "Mom told me not to drink. Who knew it wasn't a joke?",
+      "ru": "Говорила мне мама, не пей. Кто ж знал, что это не шутка?"
+    }
+  ]
+}

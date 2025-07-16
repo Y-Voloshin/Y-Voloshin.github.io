@@ -1,0 +1,29 @@
+{
+  "texts": [
+    {
+      "key": "q0",
+      "en": "[Q0] Tell me about yourself.",
+      "ru": "[Q0] Расскажите о себе."
+    },
+    {
+      "key": "q1",
+      "en": "[Q1] What do you think about murder?",
+      "ru": "[Q1] Что вы думаете об убийстве?"
+    },
+    {
+      "key": "q2",
+      "en": "[Q2] You look like you have something to keep in secret.",
+      "ru": "[Q2] Мне кажется, вы что-то скрываете."
+    },
+    {
+      "key": "q3",
+      "en": "[Q3] Where have you been in the moment of murder?",
+      "ru": "[Q3] Где вы были в момент убийства?"
+    },
+    {
+      "key": "q4",
+      "en": "Good evening!",
+      "ru": "Хорошего вечера!"
+    }
+  ]
+}
