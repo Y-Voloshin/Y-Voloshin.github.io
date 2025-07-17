@@ -17,8 +17,8 @@
     },
     {
       "key": "ui_cancel_cocktail",
-      "en": "Don't serve cocktail to the guest",
-      "ru": "Не наливать гостю"
+      "en": "Cancel the cocktail",
+      "ru": "Отменить коктейль"
     },
     {
       "key": "ui_ready_cocktails_menu",
@@ -172,8 +172,8 @@
     },
     {
       "key": "ui_no_cocktail_hint",
-      "en": "If you don't give a cocktail to the guest, all his parameters will fall down by {0}.",
-      "ru": "Если не дать гостю коктейль, все его параметры упадут на {0}."
+      "en": "<b>IMPORTANT!\nIf you don't give a cocktail to the guest, all his parameters will fall down by {0}.</b>",
+      "ru": "<b>ВАЖНО!\nЕсли не дать гостю коктейль, все его параметры упадут на {0}.</b>"
     }
   ]
 }
