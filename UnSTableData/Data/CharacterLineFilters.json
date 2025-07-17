@@ -59,7 +59,7 @@
         }
       ],
       "parameterLimits": [
-        { "parameter": "communication", "alwaysFalseValue": 20, "alwaysTrueValue": 80 },
+        { "parameter": "communication", "alwaysFalseValue": 20, "alwaysTrueValue": 50 },
         { "parameter": "friendliness", "alwaysFalseValue": 20, "alwaysTrueValue": 80 }
       ]
     },
@@ -97,7 +97,7 @@
         }
       ],
       "parameterLimits": [
-        { "parameter": "communication", "alwaysFalseValue": 20, "alwaysTrueValue": 80 },
+        { "parameter": "communication", "alwaysFalseValue": 20, "alwaysTrueValue": 50 },
         { "parameter": "friendliness", "alwaysFalseValue": 20, "alwaysTrueValue": 80 }
       ]
     }

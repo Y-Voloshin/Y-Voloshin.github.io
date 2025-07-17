@@ -6,6 +6,6 @@
   "ingredientEffectForPropertyMax": 10,
   "ingredientsInCocktailCountMin": 3,
   "ingredientsInCocktailCountMax": 5,
-  "oneIngredientInCocktailMax" : 2,
-  "ingredientsStockCount": 7
+  "cocktailsWithConcreteIngredientCountMax": 5,
+  "oneIngredientInCocktailMax" : 2
 }

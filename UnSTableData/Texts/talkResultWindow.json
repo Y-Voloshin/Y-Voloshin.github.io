@@ -36,11 +36,6 @@
       "ru": "Вопросов от Детектива осталось: {0}."
     },
     {
-      "key": "ui_trw_hint",
-      "en": "To make a guest talk, keep one in a good mood: {0}.\nAlso keep {1}.",
-      "ru": "Чтобы гость заговорил, держите его в хорошем настроении: {0}.\nТакже держите {1}."
-    },
-    {
       "key": "ui_trw_above",
       "en": "above",
       "ru": "выше"
@@ -49,6 +44,16 @@
       "key": "ui_trw_below",
       "en": "below",
       "ru": "ниже"
+    },
+    {
+      "key": "ui_trw_hint_caption",
+      "en": "How to serve drinks to guests properly",
+      "ru": "Как правильно напоить гостей"
+    },
+    {
+      "key": "ui_trw_hint",
+      "en": "You will serve each guest. After that, guests will answer Detective's question. This will repeat 3 times. To solve the crime, guests need to say 12 phrases that affect the investigation (truth or lies). You can also catch the killer lying 3 times.\nThe higher the FRIENDLINESS and COMMUNICATION, the higher the chances of getting meaningful information from the guest.\nIf guest's COMMUNICATION is below 20, they always say useless phrases. If COMMUNICATION is above 50, everything depends on FRIENDLINESS. For FRIENDLINESS, a value below 20 is always a failure, a value above 80 is always a success.",
+      "ru": "Вы обслужите каждого гостя. После этого гости ответят на вопрос Детектива. Это повторится 3 раза. Для раскрытия преступления гости должны сказать 12 фраз, влияющих на расследование (правда или ложь). Также можно поймать убийцу на лжи 3 раза.\nЧем выше ДРУЖЕЛЮБИЕ и ОБЩИТЕЛЬНОСТЬ. тем выше шансы получить от гостя значимую информацию.\nЕсли ОБЩИТЕЛЬНОСТЬ гостя ниже 20, он всегда говорит бесполезные фразы. Если ОБЩИТЕЛЬНОСТЬ выше 50, всё зависит от ДРУЖЕЛЮБИЯ. Для ДРУЖЕЛЮБИЯ значение ниже 20 - это всегда неудача, значение выше 80 - всегда успех."
     }
   ]
 }
